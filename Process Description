@@ -1,0 +1,15 @@
+Step 0 	 : this file has been created to collect the text & body in 1 file
+Step 1   : this file has been made for removing punctuation marks & stopwords
+Step 2_0 : Generating File After Porter
+Step 2_1 : Generating File After Porter with Total frequency
+Step 3 	 : Finding Term Frequency
+Step 4   : generate Term Frequency . Remove one line in output after completion
+Step 5   : Frequency and matrix Generation for IDF 
+Step 6   : Inverse Document Frequency 
+Step 7 	 : Term Frequency inverse document frequency
+Step 8   : Matlab file for generating the X matrix with dimension 21578*8514 
+Step 9	 : Matlab file -  It decomposes X matrix into 3 matrices U , sigma , Vt having sigma dimension = 64 
+Step 10  : Matlab file - Write V matrix in to myfile_final.txt
+Step 11  : Snn & Random walk Based Model implemented in STXXL/c++ 
+Step 12  : Cure Algorithm Used for comparison 
+Step 13  : Kmeans Algorithm used for Comparison
